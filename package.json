@@ -1,0 +1,9 @@
+{
+    "name": "cicd-demo-node-lambda",
+    "version": "1.0.0",
+    "description": "hello world sample for NodeJS",
+    "main": "index.js",
+    "dependencies": {
+        "node-fetch": "2.6.0"
+    }
+}
